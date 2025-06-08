@@ -25,9 +25,9 @@ import PopupWithConfirm from '../components/PopupWithConfirm.js';
 import UserInfo from '../components/UserInfo.js';
 
 const api = new Api({
-  baseUrl: 'https://mesto.nomoreparties.co/v1/cohort-29',
+  baseUrl: 'https://mesto.nomoreparties.co/v1/apf-cohort-202',
   headers: {
-    authorization: '9a15705e-c3d0-477e-8f81-f6228da5acbc',
+    authorization: '99592ed2-d01f-4e56-801f-e9f03bf8341d',
     'Content-Type': 'application/json',
   },
 });
